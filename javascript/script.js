@@ -227,4 +227,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Ensure count updated even if no products/cart
     updateCartCount();
 });
+//
+
+git commit -m "Implement event handling for add to cartfunctionality"
 
